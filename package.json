@@ -1,0 +1,13 @@
+{
+  "name": "template_eventmgr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "main": "ts-node src/demo.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.3.1",
+    "typescript": "^5.1.3"
+  }
+}
